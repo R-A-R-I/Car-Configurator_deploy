@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Car-Configurator_deploy/static/css/main.e6c13ad2.css",
+    "main.js": "/Car-Configurator_deploy/static/js/main.ca24d228.js",
+    "static/js/787.86e6cd49.chunk.js": "/Car-Configurator_deploy/static/js/787.86e6cd49.chunk.js",
+    "index.html": "/Car-Configurator_deploy/index.html",
+    "main.e6c13ad2.css.map": "/Car-Configurator_deploy/static/css/main.e6c13ad2.css.map",
+    "main.ca24d228.js.map": "/Car-Configurator_deploy/static/js/main.ca24d228.js.map",
+    "787.86e6cd49.chunk.js.map": "/Car-Configurator_deploy/static/js/787.86e6cd49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ca24d228.js"
+  ]
+}
